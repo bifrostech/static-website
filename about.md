@@ -5,48 +5,10 @@ description: About
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Bifrostech is building the CryptoBadge platform that bridges the digital and physical worlds by using physical badges that contain non-clonable, unique, machine readable patterns. The identity of these tags, and the object that they are associated with, are stored in a decentralized, and immutable record using the blockchain technology that provides the user with the ability to observe the chain of custody. This chain of custody will allow you to be able to rapidly and easily differntiate between authentic and counterfeit products along with determine whether the person that you are purchasing a used object actually owns the object. This technology has the potential to reduce counterfeiting and surface nefariouss sellers.
 
-## Ne verba patulosque numen vix libet
+## CryptoBadges
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Before CryptoBadges consumers had no way to authenticate the manufacturer or ownership of physical items such as televisions, handbags, sports memorabilia, or even clothing. Furthermore, a seller had no way of proving ownership of the object and therefore exchanges relied on trust and reputation. Today, that changes. You can attach a CryptoBadge to almost any object and within minutes, using the Bifrostech platform, register yourself as the owner and/or manufacturer of the object. When you are ready to sell the item you can easily transfer ownership using the Bifrostech platform. All of these ownership transactions are stored in an immutable record that allows anyone to observe the chain of custody.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
-
-## Postquam tamen
-
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.

@@ -2,17 +2,17 @@
 title: Bifrostech
 layout: home
 description: Bridging the physical and the digital.
-intro_image: "images/illustrations/Bifrostech_Manufacture.png"
-intro_image_absolute: true
+intro_image: "images/illustrations/undraw_Business_deal_re_up4u.svg"
+intro_image_absolute: false
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
 # Bifrostech introduces Non-Fungable Physical Tokens (NFpT)
 
-Have you ever bought an used item and wondered “is this a stolen item?” 
-
 Have you ever purchased an item from an on-line retailer and wondered “is this authentic or a knockoff?” 
+
+Have you ever bought an used item and wondered “is this item authentic" or "or it stolen ?” 
 
 Are you a manufacturer and concerned about counterfeit products diluting your brand or increasing your liability? 
 
