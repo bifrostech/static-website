@@ -2,13 +2,13 @@
 title: Bifrostech
 layout: home
 description: Bridging the physical and the digital.
-intro_image: "images/illustrations/bifrost_image.png"
+intro_image: "images/illustrations/Bifrostech_Manufacture.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Bifrostech brings CryptoBadges
+# Bifrostech introduces Non-Fungable Physical Tokens (NFpT)
 
 Have you ever bought an used item and wondered “is this a stolen item?” 
 
@@ -18,8 +18,9 @@ Are you a manufacturer and concerned about counterfeit products diluting your br
 
 Are you an art or memorabilia collector who is concerned about the authenticity?  
 
+**Bifrostech** is excited to introduce a new patented technology that bridges the physical and the blockchain world ([Bifrost](https://en.wikipedia.org/wiki/Bifr%C3%B6st){:target="_blank"}) that will revolutionize how physical products are authenticated, bought, sold and traded.
 
-If you have ever bought or sold an item, **CryptoBadges** provides a simple solution to these age-old questions.
+For more information email [info@bifrostech.net](mailto:info@bifrostech.net){:target="_blank"}
 
 
 
