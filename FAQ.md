@@ -6,6 +6,7 @@ intro_image: "images/illustrations/undraw_Questions_re_1fy7.svg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
+<img src="/images/illustrations/undraw_Questions_re_1fy7.svg" align='right' alt="FAQ" width="300"/>
 
 **Q**: Why not simply put a QR or barcode on an object instead of the chaotically generated CryptoBadge pattern?
 
@@ -25,4 +26,4 @@ intro_image_hide_on_mobile: true
 
 **Q**: What happens to the ownership ledger if [Bifrostech](https://bifrostech.net) goes out of business?
 
-**A**: The ownership ledger is on a decentralized blockchain network. If CryptoBadges goes out of business that ledger and all of the smart contracts will continue to be executed and exist.
+**A**: The ownership ledger is on a decentralized blockchain network. If [Bifrostech](https://bifrostech.net) goes out of business that ledger and all of the smart contracts will continue to be executed and exist on the blockchain.

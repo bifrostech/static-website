@@ -12,7 +12,7 @@ show_call_box: true
 
 Have you ever purchased an item from an on-line retailer and wondered “is this authentic or a knockoff?” 
 
-Have you ever bought an used item and wondered “is this item authentic" or "or it stolen ?” 
+Have you ever bought a used item and wondered “is this item authentic" or "or it stolen?” 
 
 Are you a manufacturer and concerned about counterfeit products diluting your brand or increasing your liability? 
 

@@ -3,7 +3,7 @@ permalink: pretty
 title: 'Bifrostech'
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
+  mobile: "images/logo/logo-mobile.png"
   mobile_height: "32px"
   mobile_width: "32px"
   desktop: "images/logo/Bifrostech Logo w_name.png"
@@ -12,7 +12,7 @@ logo:
 
 collections:
   services:
-    output: false
+    output: true
   team:
     output: false
 

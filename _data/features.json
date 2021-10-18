@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Manage Items",
+    "description": "Easily manage the physical items that you own.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Chain of Custody",
+    "description": "Trustless determination of the object's provenance and chain of custody.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Trustless Transactions",
+    "description": "Buy, sell and trade with others that you do not know with confidence that the object is authentic and owned by the seller (i.e., trustless transaction).",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
